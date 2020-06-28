@@ -250,13 +250,13 @@ img {
   background: url('../images/portfolio-header.jpg') no-repeat;
   background-size: cover;
   background-position: center;
-  min-height: 500px;
-  padding-top: 160px;
+  min-height: 0px;
+  padding-top: 20px;
 }
 #portfolio {
   text-align: center;
-  padding-top: 80px;
-  padding-bottom: 60px;
+  padding-top: -5px;
+  padding-bottom: 10px;
   }
 #portfolio h2 {
   padding-bottom: 20px;
